@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Web3jWithJavaFX.jnlp">
+  <information>
+    <title>Web3jWithJavaFX</title>
+    <vendor>Unknown</vendor>
+    <description>Web3jWithJavaFX</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="Java-WebSocket-1.3.8.jar" size="117158" download="eager" />
+    <jar href="Web3jWithJavaFX.jar" size="91360" download="eager" />
+    <jar href="abi-3.5.0.jar" size="115719" download="eager" />
+    <jar href="asm-5.0.3.jar" size="53231" download="eager" />
+    <jar href="asm-analysis-5.0.3.jar" size="20443" download="eager" />
+    <jar href="asm-commons-5.0.3.jar" size="41717" download="eager" />
+    <jar href="asm-tree-5.0.3.jar" size="29036" download="eager" />
+    <jar href="asm-util-5.0.3.jar" size="43296" download="eager" />
+    <jar href="bcprov-jdk15on-1.54.jar" size="3277268" download="eager" />
+    <jar href="codegen-3.5.0.jar" size="43419" download="eager" />
+    <jar href="console-3.5.0.jar" size="14233" download="eager" />
+    <jar href="core-3.3.3.jar" size="543115" download="eager" />
+    <jar href="core-3.5.0.jar" size="266956" download="eager" />
+    <jar href="crypto-3.5.0.jar" size="48712" download="eager" />
+    <jar href="infura-3.5.0.jar" size="1724" download="eager" />
+    <jar href="jackson-annotations-2.8.0.jar" size="55784" download="eager" />
+    <jar href="jackson-core-2.8.5.jar" size="281079" download="eager" />
+    <jar href="jackson-databind-2.8.5.jar" size="1236315" download="eager" />
+    <jar href="javapoet-1.7.0.jar" size="88375" download="eager" />
+    <jar href="javase-3.3.3.jar" size="41671" download="eager" />
+    <jar href="jffi-1.2.14-native.jar" size="635218" download="eager" />
+    <jar href="jffi-1.2.14.jar" size="149659" download="eager" />
+    <jar href="jnr-constants-0.9.6.jar" size="346364" download="eager" />
+    <jar href="jnr-enxio-0.14.jar" size="27713" download="eager" />
+    <jar href="jnr-ffi-2.1.2.jar" size="678077" download="eager" />
+    <jar href="jnr-posix-3.0.33.jar" size="226126" download="eager" />
+    <jar href="jnr-unixsocket-0.15.jar" size="44889" download="eager" />
+    <jar href="jnr-x86asm-1.0.2.jar" size="219943" download="eager" />
+    <jar href="logging-interceptor-3.8.1.jar" size="8268" download="eager" />
+    <jar href="okhttp-3.8.1.jar" size="398122" download="eager" />
+    <jar href="okio-1.13.0.jar" size="81811" download="eager" />
+    <jar href="rlp-3.5.0.jar" size="5714" download="eager" />
+    <jar href="rxjava-1.2.4.jar" size="1140498" download="eager" />
+    <jar href="slf4j-api-1.7.25.jar" size="41203" download="eager" />
+    <jar href="slf4j-nop-1.7.25.jar" size="4007" download="eager" />
+    <jar href="tuples-3.5.0.jar" size="40556" download="eager" />
+    <jar href="utils-3.5.0.jar" size="10290" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="600" height="400" main-class="sample.Main"  name="Web3jWithJavaFX" />
+  <update check="background"/>
+</jnlp>
